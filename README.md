@@ -1,5 +1,5 @@
-# voc2coco
-Convert voc annotation xml to COCO json format.
+# pascol voc to coco
+Convert pascol voc annotation xml to COCO json format.
 
 1. pip install lxml
 2. python voc2coco.py xmllist.txt ../Annotations output.json
